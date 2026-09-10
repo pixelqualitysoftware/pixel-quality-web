@@ -26,3 +26,21 @@ h6 {
 html {
     background-color: #e3d8f3;
 }
+
+p {
+    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
+}
+
+a {
+    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
+}
+
+
+blockquote {
+    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
+    background-color: #7b7681;
+    border-radius: 5px;
+    color: #ebd0f4;
+    padding: 10px;
+}
+
