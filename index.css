@@ -15,7 +15,7 @@ html {
 p, a, blockquote, li, ul{
     font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
 }
-p, a, li {
+p, a, li, code {
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -43,5 +43,9 @@ body {
 code{
 		color: #ebd0f4; 
 		padding:0.7rem;
+}
+
+a, .b {
+		margin-left: 2.5px;
 }
 
